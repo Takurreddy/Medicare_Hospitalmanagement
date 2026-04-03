@@ -1,0 +1,9 @@
+# Use this workspace to collaborate
+workspace:
+  id: fd0fe6a0-1702-4aa8-8280-33364155f393
+
+localResources:
+  collections:
+    - ..\MediCare-Hospital-API.postman_collection.json
+  environments:
+    - ..\MediCare-Local.postman_environment.json
